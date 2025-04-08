@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/secopselite/secopselite/main/assets/logo.png" alt="SecOpsElite Logo" width="200"/>
+  <img src="https://github.com/SecOpsElite/SecOpsElite/blob/main/SecOpsElite.png" alt="SecOpsElite Logo" width="200"/>
   
   # **SecOpsElite**
   ### *Where Security Meets Excellence*
